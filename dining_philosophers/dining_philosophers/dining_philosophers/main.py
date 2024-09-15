@@ -11,6 +11,5 @@ def main():
     dining_table.start_dining()
 
 
-
 if __name__ == "__main__":
     main()
